@@ -11,6 +11,10 @@
      
 	   `conda activate mlenv`
      
-     - To run fuzzy controller
+     - To run fuzzy controller from terminal
      
 	   `python flc_system.py.py`
+
+     - To run fuzzy controller with Jupyter Notebook
+
+	   `jupyter notebook`
