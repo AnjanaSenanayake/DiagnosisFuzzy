@@ -13,7 +13,7 @@
      
      - To run fuzzy controller from terminal
      
-	   `python flc_system.py.py`
+	   `python flc_system.py`
 
      - To run fuzzy controller with Jupyter Notebook
 
